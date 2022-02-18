@@ -1,6 +1,6 @@
 # Junyao Yang
 ## I'm a data journalist interested in investigative reporting. 
-![profile photo](
+![profile photo](/IMG_3407.jpg)
 ## Skills
 1. Data Analysis & Visualization
 2. Graphic Design
