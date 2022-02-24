@@ -1,3 +1,4 @@
+# Data Cleaning
 1. open the data file https://drive.google.com/file/d/12EDYe0DNDbvi8IHy0RwAPtoais6YOHka/view and open it in Google spreadsheet
 2. make a copy called [Original]Dataset_SOFT100K_95-96
 3. operate on the google spreadsheet file called [Active] Dataset_SOFT100K_95-96
@@ -24,7 +25,7 @@
      * change DNC to Democratic National Committee
    * export it as csv. and upload it on Google Spreadsheet
 
-#Questions
+# Questions
 1. Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party?
    * Insert - Pivot Table
    * put industry in rows, party in columns, Amount in values
@@ -35,3 +36,27 @@
      * sort rows by SUM of Amount-R in descending order
      * Republican/Conservative industry contributed to the Republican party the most. The amount was $4,939,000.  
 2. How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL?
+   * Insert - Pivot Table
+   * put sector in rows, party in columns and amount in values
+   * sort rows by SUM of Amount-D in descending order
+   * Donors from the Misc. Business sector contributed $3,520,000 to the Democratic party. 
+   * double click the $3,520,000 cell
+   * create filter, filter City column to Miami Lakes
+   * The donor Windmere Corp was based in Miami Lakes, FL.
+3. What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it?
+   * Insert - Pivot Table
+   * put industry in Filters, filter to tobacco
+   * put industry in columns, put donor in rows, put Amount in values
+   * sort rows by SUM of Amount-Tobacco in descending order
+   * We see Philip Morris donated $1,820,000. 
+   * in the section of values, show as % of column
+   * Philip Morris accounted for 70.82% of the tobacco industry's donations. 
+4. Story Idea
+   * Put industry in rows, party in columns, amount in values
+   * Sort industry by SUM of Amount-R
+   * The tobacco industry contributed $2,420,000 to the Republican party. 
+   * Put industry in filters and filter only the tobacco industry
+   * add donor in rows too
+   * Show values as % of column
+   * The money from Philip Morris accounted for 69.01% of the amount from the tobacco industry to the Republican party.  
+
