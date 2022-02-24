@@ -32,9 +32,13 @@
    * Democratic:
      * sort rows by SUM of Amount-D in descending order
      * Media/Entertainment industry contributed to the Democratic party the most. The amount was $1,880,000.
+     
+     ![screenshot1D](1_D.png)
    * Republican:  
      * sort rows by SUM of Amount-R in descending order
      * Republican/Conservative industry contributed to the Republican party the most. The amount was $4,939,000.  
+     
+     ![screenshot1R](1_R.png)
 2. How much did donors from the Misc. Business sector contribute to the Democratic party? Which donors were based in Miami Lakes, FL?
    * Insert - Pivot Table
    * put sector in rows, party in columns and amount in values
@@ -43,6 +47,8 @@
    * double click the $3,520,000 cell
    * create filter, filter City column to Miami Lakes
    * The donor Windmere Corp was based in Miami Lakes, FL.
+   
+   ![screenshot2](2.png)
 3. What percentage of the tobacco industry’s donations does Philip Morris account for? How much is it?
    * Insert - Pivot Table
    * put industry in Filters, filter to tobacco
@@ -51,6 +57,8 @@
    * We see Philip Morris donated $1,820,000. 
    * in the section of values, show as % of column
    * Philip Morris accounted for 70.82% of the tobacco industry's donations. 
+   
+   ![screenshot2](3.png)
 4. Story Idea
    * Put industry in rows, party in columns, amount in values
    * Sort industry by SUM of Amount-R
@@ -58,5 +66,7 @@
    * Put industry in filters and filter only the tobacco industry
    * add donor in rows too
    * Show values as % of column
-   * The money from Philip Morris accounted for 69.01% of the amount from the tobacco industry to the Republican party.  
+   * The money from Philip Morris accounted for 69.01% of the amount from the tobacco industry to the Republican party.
+   
+   ![screenshot2](4.png)
 
