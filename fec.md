@@ -69,4 +69,20 @@
    * The money from Philip Morris accounted for 69.01% of the amount from the tobacco industry to the Republican party.
    
    ![screenshot2](4.png)
+   
+**Headline:** Tobacco industry pours $2.4 million into Republican election campaigns, nearly 70% from Philip Morris
 
+**Sources:**
+The Republican candidate
+The Democratic candidate
+Voters for both parties
+Public policy experts
+Public health experts: The University of California–San Francisco publishes reports on tobacco industry political activity that provide an in-depth look at the tobacco industry's political activities and the influence on state-level policies. 
+
+**Questions:**
+How does the donation from the tobacco industry (or a particular tobacco company) impact the policies regarding tobacco use, sales, taxes, etc?
+What’s the tie between receiving tobacco industry PAC money and pro-tobacco policymaking? How much control do tobacco companies have over policies?   
+
+5. What data might be suitable to join with this data to provide context or additional stories? Give me two examples.
+* The changes of the tobacco industry’s contribution to PAC over the years (time)
+* How PAC uses the money coming from donors (in categories) 
